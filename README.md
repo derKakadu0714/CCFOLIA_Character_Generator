@@ -5,14 +5,14 @@ CCFOLIA 角色生成器 使用說明
 google docs 連結
 https://docs.google.com/document/d/1fwtRObAQ_T238B7x3Y3PNx1M8sxSi7pvLhZlAX8s3Fs/edit?usp=sharing
 
-#
-適用範圍
+# 適用範圍
 
 **系統：** CoC
 
 **CCFOLIA 骰子：** クトゥルフ神話TRPG
 
-**環境：** PC only / window 10， 其他版本不確定
+**環境：** PC only / window 10， 其他版本不確定!
+[Uploading 1.png…]()
 
 
 #
@@ -48,6 +48,9 @@ CCFOLIA 角色匯入功能介紹
 
 貼上的效果如下：
 
+![2](https://user-images.githubusercontent.com/103349391/183304950-f8ebd0ef-fe18-4915-9633-f141ed9b008b.png)
+
+![3](https://user-images.githubusercontent.com/103349391/183304978-0cbcc28e-98de-4672-87cd-1459e06089c8.png)
 
 可以看到角色Chicken生成在面板中央
 
@@ -63,28 +66,35 @@ CCFOLIA 角色匯入功能介紹
 
 **下載**
 
-首先打開下載連結，會進到以下頁面
+首先打開[下載連結](https://github.com/derKakadu0714/CCFOLIA_Character_Generator?fbclid=IwAR10EDbnaBu8uOYnTvtLMUTbwrmEdhtODrSu84Za0MkAxYh4tTxl2QrSCAQ)，會進到以下頁面
 
 
+![image](https://user-images.githubusercontent.com/103349391/183304998-7692818e-1d1f-4d4e-8355-8997ff86a13f.png)
 
-請點選 　＞＞　Download ZIP
+
+請點選 ![4](https://user-images.githubusercontent.com/103349391/183305104-38fbe740-5149-4207-9d4c-de18ab5e636c.png)
+　＞＞　Download ZIP
 
 
 
 
 下載並得到以下壓縮檔　＞＞　解壓縮
+![5](https://user-images.githubusercontent.com/103349391/183305114-04d0e47b-1c16-4b90-bd3b-7fbcdade7ed1.png)
 
 
 裡面的exe檔即是程式本體。
+![6](https://user-images.githubusercontent.com/103349391/183305118-8418b0f6-e82d-4d79-a394-cc3e0027d922.png)
 
 
 # 本體使用說明
 
 
-創立角色：
+**創立角色**
 
 
 開啟本體進入介面
+
+![7](https://user-images.githubusercontent.com/103349391/183305150-7fd79bce-2d9a-4bd6-9fa8-74d4c75bc400.png)
 
 
 **步驟1 - 輸入基本資料**
@@ -94,6 +104,8 @@ CCFOLIA 角色匯入功能介紹
 
 
 在此以自家小孩為例
+
+![8](https://user-images.githubusercontent.com/103349391/183305166-26990143-5c9e-4238-80f6-a9cf32f4b14e.png)
 
 
 輸入完畢後點擊下一頁，進到以下技能頁面
