@@ -139,7 +139,7 @@ CCB<=技能數值 <顯示名稱>
 ![10](https://user-images.githubusercontent.com/103349391/183305252-11ab3589-3ea7-4079-bf00-2db180944c42.png)
 
 
-輸入完畢後點擊「更新技能」，下列文字框會顯示新增成功的訊息。
+輸入完畢後點擊「新增技能」，下列文字框會顯示更新成功的訊息。
 
 
 ![11](https://user-images.githubusercontent.com/103349391/183305263-bca78c74-aa8d-48cb-af7f-82b9e6072a12.png)
