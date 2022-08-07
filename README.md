@@ -86,10 +86,13 @@ CCFOLIA 角色匯入功能介紹
 ![5](https://user-images.githubusercontent.com/103349391/183305114-04d0e47b-1c16-4b90-bd3b-7fbcdade7ed1.png)
 
 
+![6](https://user-images.githubusercontent.com/103349391/183305118-8418b0f6-e82d-4d79-a394-cc3e0027d922.png)
+
 
 裡面的exe檔即是程式本體。
 
-![6](https://user-images.githubusercontent.com/103349391/183305118-8418b0f6-e82d-4d79-a394-cc3e0027d922.png)
+
+![19](https://user-images.githubusercontent.com/103349391/183305482-08da3a37-0efa-4630-a1b1-b190dd093a2a.png)
 
 
 # 本體使用說明
