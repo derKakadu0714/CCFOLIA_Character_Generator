@@ -12,6 +12,7 @@ https://docs.google.com/document/d/1fwtRObAQ_T238B7x3Y3PNx1M8sxSi7pvLhZlAX8s3Fs/
 **CCFOLIA 骰子：** クトゥルフ神話TRPG
 
 **環境：** PC only / window 10， 其他版本不確定!
+
 ![1](https://user-images.githubusercontent.com/103349391/183306465-0d52c774-d5f2-43be-ac73-06e4576ff4c4.png)
 
 
