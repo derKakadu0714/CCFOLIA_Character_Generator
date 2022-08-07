@@ -2,9 +2,7 @@
 CCFOLIA 角色生成器 使用說明
 <br>
 <br>
-google docs 連結
-https://docs.google.com/document/d/1fwtRObAQ_T238B7x3Y3PNx1M8sxSi7pvLhZlAX8s3Fs/edit?usp=sharing
-
+[Google docs 連結](https://docs.google.com/document/d/1fwtRObAQ_T238B7x3Y3PNx1M8sxSi7pvLhZlAX8s3Fs/edit?usp=sharing)
 # 適用範圍
 
 **系統：** CoC
