@@ -17,8 +17,6 @@ https://docs.google.com/document/d/1fwtRObAQ_T238B7x3Y3PNx1M8sxSi7pvLhZlAX8s3Fs/
 
 
 
-#
-
 
 # 前言
 
